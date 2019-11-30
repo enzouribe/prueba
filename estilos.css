@@ -1,0 +1,29 @@
+body {
+    margin 0;
+}
+
+main {
+    border-block-style: solid;
+    border-color: red;
+    border-width: 3px;
+}
+
+header, section, aside, footer{
+    border-style: dashed;
+    border-width: 1px;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    display: inline-block;
+}
+.contenido-principal{
+    background-color: beige;
+    border-block-style: solid;
+    border-color: red;
+    border-width: 3px;
+
+
+}
